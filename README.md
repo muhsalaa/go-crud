@@ -3,6 +3,10 @@ Golang practice creating CRUD operations following tutorial on youtube
 - [go crud](https://www.youtube.com/watch?v=lf_kiH_NPvM)
 - [go auth](https://www.youtube.com/watch?v=ma7rUS_vW9M)
 
+## Starting
+
+- run `make dev`
+
 ## Feature
 
 - CRUD
